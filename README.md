@@ -19,7 +19,7 @@ Documentation for the FRED API: https://fred.stlouisfed.org/docs/api/fred/
 	
 # Source Notes	
 - Forked from https://github.com/timsternation/fredApi/
-- Michael Ash (UMass Amherst) & the FRED team (Federal Reserve Bank of St. Louis). Comments welcome: mash@econs.umass.edu
+- Michael Ash (UMass Amherst) and Tim Hulley. Comments welcome: mash@econs.umass.edu
 
 # To Do List
 - [x] Retrieve series metadata
